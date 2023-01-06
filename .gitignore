@@ -16,4 +16,5 @@ doc/source/_build
 build/*
 dist/*
 extra/
+wandb/*
 .ipynb_checkpoints/
